@@ -46,7 +46,7 @@ function budgetCalculator(watchCount, phoneCount, laptopCount) {
 
 
 
-//3: Find the largest string of an array
+//3: Find the megaFriend of an array
 function megaFriend(names) {
     if (names.length <= 0) {
         return "Array can't be Empty";
